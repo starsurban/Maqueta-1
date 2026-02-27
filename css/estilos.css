@@ -24,6 +24,10 @@ body {
     color: black;
 }
 
+.tamano {
+    height: 200px;
+}
+
 /*=================MENU HAMBURGUESA ==================== */
 
 .hamburguesa {
@@ -103,11 +107,11 @@ footer {
     background-color: #1f1f1f;
     padding: 30px;
     text-align: center;
-    border-bottom: 4px solid #ff0000;
+    border-bottom: 4px solid #1900ff;
 }
 
 nav {
-    background-color: #535353;
+    background-color: #f5f5f5;
     padding: 40px;
     text-align: center;
 }
@@ -130,7 +134,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #ff0000;
+    background-color: #f7f7f7;
     color: white;
 }
 
@@ -145,20 +149,20 @@ nav a:hover {
 
 .contenido {
     flex: 2;
-    background-color: #252525;
+    background-color: #707070;
     padding: 40px;
     border-radius: 10px;
 }
 
 .sidebar-derecha {
     flex: 1;
-    background-color: #252525;
+    background-color: #7a7a7a;
     padding: 30px;
     border-radius: 8px;
 }
 
 .bloque-naranja {
-    background-color: #ff0000b7;
+    background-color: #ffffff;
     height: 200px;
     width: 100%;
     margin-bottom: 30px;
@@ -166,7 +170,7 @@ nav a:hover {
 }
 
 .linea-texto {
-    background-color: #444;
+    background-color: #7e7d7d;
     height: 15px;
     width: 100%;
     margin-bottom: 15px;
